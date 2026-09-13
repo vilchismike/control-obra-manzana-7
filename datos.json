@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 1,
+    "fecha": "2026-09-13",
+    "concepto": "asdasd",
+    "monto": 232.23,
+    "cat": "Materiales"
+  }
+]
