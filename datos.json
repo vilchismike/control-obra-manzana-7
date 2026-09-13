@@ -6,5 +6,12 @@
     "monto": 20000,
     "cat": "Materiales",
     "editing": false
+  },
+  {
+    "id": 2,
+    "fecha": "2026-09-12",
+    "concepto": "Nomina 1 Villas Paraiso MZA 7",
+    "monto": 35000,
+    "cat": "Mano de obra"
   }
 ]
