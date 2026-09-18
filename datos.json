@@ -13,5 +13,12 @@
     "concepto": "Nomina 1 Villas Paraiso MZA 7",
     "monto": 35000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 3,
+    "fecha": "2026-09-15",
+    "concepto": "Rafa le lleva a gasolinera al arquitecto dinero para villas paraiso",
+    "monto": 60000,
+    "cat": "Materiales"
   }
 ]
