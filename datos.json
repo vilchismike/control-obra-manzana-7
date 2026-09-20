@@ -27,5 +27,12 @@
     "concepto": "RAFA LE LLEVA DINERO A VILLAS PARAISO PARA NOMINA",
     "monto": 35000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 5,
+    "fecha": "2026-09-19",
+    "concepto": "RAFA LE LLEVA DINERO A VILLAS PARAISO PARA MATERIALES DE LA SEMANA ENTRANTE",
+    "monto": 35000,
+    "cat": "Materiales"
   }
 ]
