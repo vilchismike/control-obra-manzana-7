@@ -20,5 +20,12 @@
     "concepto": "Rafa le lleva a gasolinera al arquitecto dinero para villas paraiso",
     "monto": 60000,
     "cat": "Materiales"
+  },
+  {
+    "id": 4,
+    "fecha": "2026-09-19",
+    "concepto": "RAFA LE LLEVA DINERO A VILLAS PARAISO PARA NOMINA",
+    "monto": 35000,
+    "cat": "Mano de obra"
   }
 ]
