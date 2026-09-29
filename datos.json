@@ -34,5 +34,12 @@
     "concepto": "RAFA LE LLEVA DINERO A VILLAS PARAISO PARA MATERIALES DE LA SEMANA ENTRANTE",
     "monto": 35000,
     "cat": "Materiales"
+  },
+  {
+    "id": 6,
+    "fecha": "2026-09-24",
+    "concepto": "Le doy al Arqui en Villas Paraiso",
+    "monto": 12000,
+    "cat": "Materiales"
   }
 ]
