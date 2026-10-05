@@ -48,5 +48,12 @@
     "concepto": "Le doy al Arqui en Villas Paraiso",
     "monto": 35000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 8,
+    "fecha": "2026-10-03",
+    "concepto": "Le doy al Arqui en Villas Paraiso",
+    "monto": 30000,
+    "cat": "Mano de obra"
   }
 ]
