@@ -55,5 +55,12 @@
     "concepto": "Le doy al Arqui en Villas Paraiso",
     "monto": 30000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 9,
+    "fecha": "2026-10-05",
+    "concepto": "Arquitecto vino a casa de Miki por dinero",
+    "monto": 40000,
+    "cat": "Materiales"
   }
 ]
