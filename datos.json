@@ -62,5 +62,12 @@
     "concepto": "Arquitecto vino a casa de Miki por dinero",
     "monto": 40000,
     "cat": "Materiales"
+  },
+  {
+    "id": 10,
+    "fecha": "2026-10-10",
+    "concepto": "Le doy al arqui en el 7/24 de los ceresos",
+    "monto": 35000,
+    "cat": "Mano de obra"
   }
 ]
