@@ -78,5 +78,12 @@
     "monto": 10000,
     "cat": "Mano de obra",
     "editing": false
+  },
+  {
+    "id": 11,
+    "fecha": "2026-10-10",
+    "concepto": "Le doy al arqui en el 7/24 de los ceresos",
+    "monto": 35000,
+    "cat": "Mano de obra"
   }
 ]
