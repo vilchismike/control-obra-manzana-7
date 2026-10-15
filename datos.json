@@ -85,5 +85,12 @@
     "concepto": "Le doy al arqui en el 7/24 de los ceresos",
     "monto": 35000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 12,
+    "fecha": "2026-10-13",
+    "concepto": "Rafa le lleva al arqui a villas paraiso",
+    "monto": 15000,
+    "cat": "Materiales"
   }
 ]
