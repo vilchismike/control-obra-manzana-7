@@ -110,5 +110,12 @@
     "monto": 29017.53,
     "cat": "Materiales",
     "editing": false
+  },
+  {
+    "id": 15,
+    "fecha": "2026-10-20",
+    "concepto": "Le hago transferencia al de la madera para simbra",
+    "monto": 4500,
+    "cat": "Materiales"
   }
 ]
