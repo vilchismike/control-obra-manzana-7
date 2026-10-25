@@ -124,5 +124,12 @@
     "concepto": "Compra de arena y grava con MAX",
     "monto": 5750,
     "cat": "Materiales"
+  },
+  {
+    "id": 17,
+    "fecha": "2026-10-22",
+    "concepto": "Rafa le lleva dinero a santa rita al arqui",
+    "monto": 15000,
+    "cat": "Materiales"
   }
 ]
