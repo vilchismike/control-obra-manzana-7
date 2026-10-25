@@ -117,5 +117,12 @@
     "concepto": "Le hago transferencia al de la madera para simbra",
     "monto": 4500,
     "cat": "Materiales"
+  },
+  {
+    "id": 16,
+    "fecha": "2026-10-22",
+    "concepto": "Compra de arena y grava con MAX",
+    "monto": 5750,
+    "cat": "Materiales"
   }
 ]
