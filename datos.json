@@ -138,5 +138,12 @@
     "concepto": "Rafa le lleva dinero a villas paraiso",
     "monto": 30000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 19,
+    "fecha": "2026-10-26",
+    "concepto": "Pagp Mercantil de construcción presupuesto Arqui",
+    "monto": 13529,
+    "cat": "Materiales"
   }
 ]
