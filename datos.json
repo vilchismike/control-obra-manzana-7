@@ -145,5 +145,12 @@
     "concepto": "Pagp Mercantil de construcción presupuesto Arqui",
     "monto": 13529,
     "cat": "Materiales"
+  },
+  {
+    "id": 20,
+    "fecha": "2026-10-28",
+    "concepto": "Viene tokes a casa de mi mama en hidrosistemas",
+    "monto": 10000,
+    "cat": "Materiales"
   }
 ]
