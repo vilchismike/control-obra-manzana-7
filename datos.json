@@ -152,5 +152,12 @@
     "concepto": "Viene tokes a casa de mi mama en hidrosistemas",
     "monto": 10000,
     "cat": "Materiales"
+  },
+  {
+    "id": 21,
+    "fecha": "2026-10-31",
+    "concepto": "Rafa le lleva dinero al arqui a villas",
+    "monto": 30000,
+    "cat": "Mano de obra"
   }
 ]
