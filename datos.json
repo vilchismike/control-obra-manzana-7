@@ -159,5 +159,12 @@
     "concepto": "Rafa le lleva dinero al arqui a villas",
     "monto": 30000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 22,
+    "fecha": "2026-11-05",
+    "concepto": "Rafa le lleva al arqui a villas paraiso",
+    "monto": 15000,
+    "cat": "Materiales"
   }
 ]
