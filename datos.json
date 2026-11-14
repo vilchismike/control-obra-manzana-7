@@ -180,5 +180,12 @@
     "concepto": "Arqui me pidio depositarle a MAX material",
     "monto": 2350,
     "cat": "Materiales"
+  },
+  {
+    "id": 25,
+    "fecha": "2026-11-14",
+    "concepto": "Le doy a Arqui en el azucareros",
+    "monto": 20000,
+    "cat": "Mano de obra"
   }
 ]
