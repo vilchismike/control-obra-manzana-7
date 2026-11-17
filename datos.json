@@ -169,20 +169,27 @@
   },
   {
     "id": 23,
+    "fecha": "2026-11-07",
+    "concepto": "Rafa le lleva dinero al arqui a villas paraiso",
+    "monto": 25000,
+    "cat": "Materiales"
+  },
+  {
+    "id": 24,
     "fecha": "2026-11-10",
     "concepto": "Le doy al arqui dinero en la notaria 17 aprovechando que firmo terreno de encinos",
     "monto": 5000,
     "cat": "Materiales"
   },
   {
-    "id": 24,
+    "id": 25,
     "fecha": "2026-11-12",
     "concepto": "Arqui me pidio depositarle a MAX material",
     "monto": 2350,
     "cat": "Materiales"
   },
   {
-    "id": 25,
+    "id": 26,
     "fecha": "2026-11-14",
     "concepto": "Le doy a Arqui en el azucareros",
     "monto": 20000,
