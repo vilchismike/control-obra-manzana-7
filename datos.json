@@ -201,5 +201,12 @@
     "concepto": "transferencia a mercantil del constructor que pidio Arqui Alex",
     "monto": 11560.5,
     "cat": "Materiales"
+  },
+  {
+    "id": 28,
+    "fecha": "2026-11-21",
+    "concepto": "Rafa le lleva dinero al arqui a villas paraiso",
+    "monto": 15000,
+    "cat": "Mano de obra"
   }
 ]
