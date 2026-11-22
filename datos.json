@@ -116,97 +116,111 @@
     "fecha": "2026-10-20",
     "concepto": "Le hago transferencia al de la madera para simbra",
     "monto": 4500,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 16,
     "fecha": "2026-10-22",
     "concepto": "Compra de arena y grava con MAX",
     "monto": 5750,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 17,
     "fecha": "2026-10-22",
     "concepto": "Rafa le lleva dinero a santa rita al arqui",
     "monto": 15000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 18,
     "fecha": "2026-10-24",
     "concepto": "Rafa le lleva dinero a villas paraiso",
     "monto": 30000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 19,
     "fecha": "2026-10-26",
     "concepto": "Pagp Mercantil de construcción presupuesto Arqui",
     "monto": 13529,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 20,
     "fecha": "2026-10-28",
     "concepto": "Viene tokes a casa de mi mama en hidrosistemas",
     "monto": 10000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 21,
     "fecha": "2026-10-31",
     "concepto": "Rafa le lleva dinero al arqui a villas",
     "monto": 30000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 22,
     "fecha": "2026-11-05",
     "concepto": "Rafa le lleva al arqui a villas paraiso",
     "monto": 15000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 23,
     "fecha": "2026-11-07",
     "concepto": "Rafa le lleva dinero al arqui a villas paraiso",
     "monto": 25000,
-    "cat": "Materiales"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 24,
     "fecha": "2026-11-10",
     "concepto": "Le doy al arqui dinero en la notaria 17 aprovechando que firmo terreno de encinos",
     "monto": 5000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 25,
     "fecha": "2026-11-12",
     "concepto": "Arqui me pidio depositarle a MAX material",
     "monto": 2350,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 26,
     "fecha": "2026-11-14",
     "concepto": "Le doy a Arqui en el azucareros",
     "monto": 20000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 27,
     "fecha": "2026-11-19",
     "concepto": "transferencia a mercantil del constructor que pidio Arqui Alex",
     "monto": 11560.5,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 28,
     "fecha": "2026-11-21",
     "concepto": "Rafa le lleva dinero al arqui a villas paraiso",
     "monto": 15000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   }
 ]
